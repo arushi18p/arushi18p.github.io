@@ -1,25 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my Website!
 
-You can use the [editor on GitHub](https://github.com/arushi18p/arushi18p.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Brag Sheet:
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Emerging Playwrights Contest
+2. Youth Council Presidential Service Award
+3. FBLA Nationals 
 
 **Bold** and _Italic_ and `Code` text
 
