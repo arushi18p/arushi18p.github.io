@@ -11,4 +11,4 @@ Hi! My name is Arushi and this is my website for my APCSP final project.
 
 ```
 
-[follow me on instagram!](https://www.instagram.com/arushipradhan_/)
+follow me on instagram:[arushipradhan_](https://www.instagram.com/arushipradhan_/)
