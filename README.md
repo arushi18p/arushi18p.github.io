@@ -9,7 +9,6 @@ Hi! My name is Arushi and this is my website for my APCSP final project.
 2. Youth Council Presidential Service Award
 3. FBLA Nationals 
 
-**Bold** and _Italic_ and `Code` text
 
-[https://github.com/arushi18p](url) and ![Image](src)
+[https://github.com/arushi18p](https://github.com/arushi18p) and ![Image](src)
 ```
