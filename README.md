@@ -1,6 +1,6 @@
 ## Welcome to my Website!
 
-
+Hi! My name is Arushi and this is my website for my APCSP final project. 
 ### Brag Sheet:
 
 ```markdown
