@@ -11,5 +11,5 @@ Hi! My name is Arushi and this is my website for my APCSP final project.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://github.com/arushi18p](url) and ![Image](src)
 ```
