@@ -8,7 +8,7 @@ Hi! My name is Arushi and this is my website for my APCSA final project.
 2. President Volunteer Service Award (Bronze and Silver)
 3. National Merit Scholarship (99th Percentile)
 
-### Experience:
+Experience:
 
 ```markdown
 Hour of Code Leader— East Brunswick, NJ-- December 2020 to Present
@@ -32,12 +32,12 @@ Youth Council Volunteer — East Brunswick, NJ-- September 2018 to Present
 East Brunswick Girls Basketball - September 2018 to Present
 
 
-### Technical Skills:
+Technical Skills:
 
 ```markdown
 Microsoft Office, Java, JavaScript, Python, HTML  
 
-### Soft Skills:    
+Soft Skills:    
 
 ```markdown
 Communication and Presentation, Leadership, Teamwork            
