@@ -31,10 +31,10 @@ Youth Council Volunteer — East Brunswick, NJ-- September 2018 to Present
 East Brunswick Girls Basketball - September 2018 to Present
 
 
-Technical Skills
+### Technical Skills:
 Microsoft Office, Java, JavaScript, Python, HTML  
 
-Soft Skills    
+### Soft Skills:    
 Communication and Presentation, Leadership, Teamwork            
 
 ```
