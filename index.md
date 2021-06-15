@@ -9,7 +9,9 @@ Hi! My name is Arushi and this is my website for my APCSA final project.
 2. President Volunteer Service Award (Bronze and Silver)
 3. National Merit Scholarship (99th Percentile)
 
-### Experience:
+Experience:
+
+```markdown
 
 Hour of Code Leader— East Brunswick, NJ-- December 2020 to Present
 - Managed project execution and led the team to ensure adherence to budget, schedule, and scope for the annual Hour of Code event.
