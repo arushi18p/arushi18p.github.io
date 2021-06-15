@@ -8,6 +8,8 @@ Hi! My name is Arushi and this is my website for my APCSA final project.
 2. President Volunteer Service Award (Bronze and Silver)
 3. National Merit Scholarship (99th Percentile)
 
+![unnamed-3](https://user-images.githubusercontent.com/66833087/121981583-e99c8880-cd5b-11eb-86f9-1794373eaa36.jpg)
+
 Experience:
 
 ```markdown
