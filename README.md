@@ -40,6 +40,5 @@ Soft Skills:
 
 Communication and Presentation, Leadership, Teamwork            
 
-```
 ![unnamed-3](https://user-images.githubusercontent.com/66833087/121981583-e99c8880-cd5b-11eb-86f9-1794373eaa36.jpg)
 
